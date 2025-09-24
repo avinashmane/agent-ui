@@ -13,7 +13,7 @@ export default {
       colors: {
         primary: '#FAFAFA',
         primaryAccent: '#18181B',
-        brand: '#FF4017',
+        brand: '#1919dfff',//'#FF4017',
         background: {
           DEFAULT: '#111113',
           secondary: '#27272A'

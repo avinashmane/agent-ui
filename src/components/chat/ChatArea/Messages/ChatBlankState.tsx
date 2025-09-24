@@ -118,9 +118,9 @@ const ChatBlankState = () => {
         >
           <div className="flex items-center justify-center gap-x-2 whitespace-nowrap font-medium">
             <span className="flex items-center font-[600]">
-              This is an open-source
+              This is a vision for Solutioning with
             </span>
-            <span className="inline-flex translate-y-[10px] scale-125 items-center transition-transform duration-200 hover:rotate-6">
+            <span className="hidden inline-flex translate-y-[10px] scale-125 items-center transition-transform duration-200 hover:rotate-6">
               <Link
                 href={EXTERNAL_LINKS.agno}
                 target="_blank"
@@ -131,7 +131,7 @@ const ChatBlankState = () => {
               </Link>
             </span>
             <span className="flex items-center font-[600]">
-              Agent UI, built with
+              Agentic AI, built with
             </span>
             <span className="inline-flex translate-y-[5px] scale-125 items-center">
               <div className="relative ml-2 h-[40px] w-[90px]">
@@ -172,7 +172,7 @@ const ChatBlankState = () => {
               </div>
             </span>
           </div>
-          <p>For the full experience, visit the AgentOS</p>
+          <p>I can help you with estimating, resource planning, pricing....just solutioning</p>
         </motion.h1>
         <motion.div
           initial={{ opacity: 0, y: 10 }}

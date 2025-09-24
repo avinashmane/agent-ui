@@ -1,5 +1,29 @@
 # Agent UI
 
+# Infra
+
+## Model (LLM)
+* Service or Host
+
+## Utlity
+* Jupyter Python host
+
+## Storage
+
+* Postgress docker
+* vector extension
+
+## Container images
+
+### AgentOS Frontend
+* Streamlit
+* AGUI
+
+### MCP servers
+
+### Agno backend
+
+
 A modern chat interface for AgentOS built with Next.js, Tailwind CSS, and TypeScript. This template provides a ready-to-use UI for connecting to and interacting with your AgentOS instances through the Agno platform.
 
 <img src="https://agno-public.s3.us-east-1.amazonaws.com/assets/agent_ui_banner.svg" alt="agent-ui" style="border-radius: 10px; width: 100%; max-width: 800px;" />
